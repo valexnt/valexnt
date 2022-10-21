@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valexnt</h1>
-<h3 align="center">A passionate frontend developer from the USA</h3>
+<h3 align="center">A passionate developer from the USA</h3>
 <img align="right" alt="Coding" width="400" src="https://s.namemc.com/3d/skin/body.png?id=73b55b79f8917566&model=slim&theta=30&phi=21&time=1204.08&width=600&height=800">
 
 
